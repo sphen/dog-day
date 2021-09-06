@@ -8,9 +8,9 @@ This template showcases Next.js's [Incremental Static Regeneration](https://next
 
 ## Example
 
-An example blog using this starter can be found here:
+An example site using this starter can be found here:
 
-### [dog day example](https://neu-hikers.vercel.app/)
+### [The Phishhikers Guide](https://www.phishhikersguide.com/)
 
 ## Quick Start
 
